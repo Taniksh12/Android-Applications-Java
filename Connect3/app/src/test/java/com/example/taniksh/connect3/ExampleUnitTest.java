@@ -1,4 +1,4 @@
-package com.example.connect3;
+package com.example.taniksh.connect3;
 
 import org.junit.Test;
 
